@@ -10,7 +10,6 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -45,10 +44,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - JavaScript
-
-### Useful resources
-
-- [Mr. Web Designer](https://youtu.be/nT20JV1nRZg) - This video on YouTube helped me to create lightbox image gallery.
 
 ## Author
 
