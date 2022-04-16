@@ -13,12 +13,6 @@ nav {
   justify-content: space-between;
 }
 
-.invisible-gallery {
-  visibility: hidden;
-  position: absolute;
-  left: -1000;
-}
-
 #hamburger-menu {
   display: none;
 }

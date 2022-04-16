@@ -1,6 +1,3 @@
-// Lightbox gallery
-lightGallery(document.querySelector('.lightbox-gallery'));
-
 const cart = document.getElementById('cart');
 const dropdown = document.getElementById('dropdown-nav');
 const hamburgerMenu = document.getElementById('hamburger-menu');
