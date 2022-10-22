@@ -7,7 +7,6 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -31,11 +30,6 @@ Users should be able to:
 
 ![](./screenshots/screenshot2.png)
 
-### Links
-
-- Solution URL: [https://github.com/andrejcode/ecommerce-product-page](https://github.com/andrejcode/ecommerce-product-page)
-- Live Site URL: [https://andrejcode.github.io/ecommerce-product-page/](https://andrejcode.github.io/ecommerce-product-page/)
-
 ## My process
 
 ### Built with
@@ -47,5 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@andrejcode](https://www.frontendmentor.io/profile/andrejcode)
 - Twitter - [@andrejcodes](https://www.twitter.com/andrejcodes)
